@@ -1,6 +1,7 @@
 # Secure-the-Vault
 ![Alert message](https://user-images.githubusercontent.com/107902020/226769146-52169a6b-93b0-4ad5-8832-22289d2964f1.png)
-![Secured Vault Assignment](https://user-images.githubusercontent.com/107902020/226769165-d477893a-f627-484e-92dd-bab4ec7dbf12.png)
+![Screenshot 2023-03-21 172134](https://user-images.githubusercontent.com/107902020/226770709-64a90b24-4ac3-4687-b9fc-168b48592543.png)
+
 Block 7 Workshop
 
 Here is the discription of this project.
