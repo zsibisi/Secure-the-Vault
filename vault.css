@@ -1,0 +1,9 @@
+/* Styling for the entire page */
+  /*styling for font size and font family*/
+  
+  body {
+    background-color: lightblue;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
